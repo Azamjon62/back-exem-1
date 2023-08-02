@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "fullName": "John",
+        "gender": "Male",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "fullName": "Azam",
+        "gender": "Male",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "fullName": "Jobit",
+        "gender": "Male",
+        "branchId": 3
+    },
+    {
+        "id": 4,
+        "fullName": "Gulchiroy",
+        "gender": "Female",
+        "branchId": 2
+    },
+    {
+        "id": 5,
+        "fullName": "Jamolhon",
+        "gender": "Male",
+        "branchId": 2
+    }
+]
